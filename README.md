@@ -1,4 +1,4 @@
-# Password Key Tracker
+# Key Sensitive Password
 
 ## Overview
 
@@ -6,7 +6,7 @@ Key Sensitive Password is a Python-based application designed to monitor and ana
 
 Ive always entered my password the exact same way despite there being an exponential number of different ways to achieve the same string, so I wanted to create a program that takes this into consideration to improve security.
 
-![Screenshot](screenshot.png)
+![Screenshot](assets/screenshot.PNG)
 
 ## Features
 
@@ -64,5 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Oliver Strange - [oliver@strangedesign.co.uk](mailto:oliver@strangedesign.co.uk)
-
-Project Link: [https://github.com/Strange-Works/password-key-tracker](https://github.com/yourusername/password-key-tracker)
