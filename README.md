@@ -2,7 +2,7 @@
 
 ## Overview
 
-Key Sensitive Password is a Python-based application designed to monitor and analyze key presses during password entry. It specifically detects whether keys were entered using Caps Lock, Shift, both, or neither.
+Key Sensitive Password is a Python-based application designed to monitor and analyse key presses during password entry. It specifically detects whether keys were entered using Caps Lock, Shift, both, or neither.
 
 Ive always entered my password the exact same way despite there being an exponential number of different ways to achieve the same string, so I wanted to create a program that takes this into consideration to improve security.
 
